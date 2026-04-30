@@ -1,6 +1,5 @@
 ## Things to learn
 
-- Gemini CLI
 - Obsidian
 - Claude Design
 
@@ -8,3 +7,4 @@
 
 - Stable Diffusion
 - Figma
+- Gemini CLI
